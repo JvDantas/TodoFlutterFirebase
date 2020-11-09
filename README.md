@@ -2,5 +2,5 @@
 Todo Flutter App with Firebase, Modular and Mobx
 
 <p align="center">
-<img src="/previa.jpg" width="230" height="500" />
+<img src="/previa.jpg" width="2560" height="1600" />
 </p>
