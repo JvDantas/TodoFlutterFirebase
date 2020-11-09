@@ -1,5 +1,5 @@
 # Todo Flutter Firebase
-Todo Flutter App with Firebase, Modular and Mobx
+Aplicativo de gerenciamento de tarefas feito em Flutter com Modular, Mobx e Firebase
 
 
 <p align="left">
